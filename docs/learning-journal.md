@@ -20,3 +20,13 @@ I want to transition from frontend engineering into AI/ML-powered application de
 - How can I build AI apps without paid API keys?
 - How do embeddings and RAG work?
 - How do I become interview-ready for AI developer roles?
+
+## Day 3
+
+Today I learned:
+
+- What inference means using trained model
+- How Ollama works  - It download model and run them and expose as API
+- How models are downloaded - pulled qwen
+- How local LLMs expose REST APIs
+- How Python communicates with an LLM
